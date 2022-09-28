@@ -1,0 +1,272 @@
+<item>
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>
+<link>NOLINK</link>	
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
+<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Power Rangers[/B][/COLOR]</title>
+<link>plugin://plugin.video.tubemusic/?video_id=<LINKTRAILER></link>
+<thumbnail>https://www.themoviedb.org/t/p/original/qx3SJlAp2RK656TusqKx1qEqVMW.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xsx8LNkEgiNt5tqyICO4qC1hrCO.jpg</fanart>
+<info>Assista ao trailer</info>
+<genre>TOKUSATSUS</genre> 
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+TORRENTS
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Mighty Morphin (1993-1995)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A6F12AA5FB4F20A9B7B57F427E8DB4C77FEFAAA5</link>
+<thumbnail><CAPADASERIE></thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xsx8LNkEgiNt5tqyICO4qC1hrCO.jpg</fanart>
+<info>É hora de morfar!</info>
+<genre>TOKUSATSUS</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+item>
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NOMEDASERIE (DATA) - FHD DUAL[/B][/COLOR]</title>
+
+<link>NOLINK$nome=[COLOR orange][B] Temporada 01 - 00 EPs[/B][/COLOR]</link>			
+
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$nome=[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$nome=[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$nome=[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$nome=[COLOR orange][B]T02E04[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$nome=[COLOR orange][B]T02E05[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$nome=[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$nome=[COLOR orange][B]T02E07[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$nome=[COLOR orange][B]T02E08[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>
+
+<thumbnail><CAPADASERIE></thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xsx8LNkEgiNt5tqyICO4qC1hrCO.jpg</fanart>
+<info>É hora de morfar!</info>
+<genre>TOKUSATSUS</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+SERVER LS
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Mighty Morphin (1993) - T01 - SD DUB[/B][/COLOR]</title>
+
+<link>NOLINK$nome=[COLOR orange][B] Temporada 01 - 60 EPs[/B][/COLOR]</link>		
+
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T01/LS-T01E01.mkv$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]O Dia da Mudansa [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T01/LS-T01E02.mkv$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Nas Alturas [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T01/LS-T01E03.mkv$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Trabalho de Equipe [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T01/LS-T01E04.mkv$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Um Encontro a Sos [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T01/LS-T01E05.mkv$nome=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]As Vezes a Diferensa Ajuda [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T01/LS-T01E06.mkv$nome=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Guerra De Comida [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T01/LS-T01E07.mkv$nome=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Irmas Mais Velhas [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T01/LS-T01E08.mkv$nome=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Trocando as Bolas [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T01/LS-T01E09.mkv$nome=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]O Monstro dos Olhos [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T01/LS-T01E10.mkv$nome=[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]Susto no ceu [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T01/LS-T01E11.mkv$nome=[COLOR orange][B]T01E11[COLOR yellow] -> [COLOR white]Por Quem os Sinos Dobram [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T01/LS-T01E12.mkv$nome=[COLOR orange][B]T01E12[COLOR yellow] -> [COLOR white]Feliz aniversario, Zack [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T01/LS-T01E13.mkv$nome=[COLOR orange][B]T01E13[COLOR yellow] -> [COLOR white]Sem Palhasada [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T01/LS-T01E14.mkv$nome=[COLOR orange][B]T01E14[COLOR yellow] -> [COLOR white]Punk Power Rangers [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T01/LS-T01E15.mkv$nome=[COLOR orange][B]T01E15[COLOR yellow] -> [COLOR white]Paz, Amor e Madame Dor [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T01/LS-T01E16.mkv$nome=[COLOR orange][B]T01E16[COLOR yellow] -> [COLOR white]O Guerreiro do Mal [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T01/LS-T01E17.mkv$nome=[COLOR orange][B]T01E17[COLOR yellow] -> [COLOR white]Verde de Raiva (Parte 1) Fora De Controle [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T01/LS-T01E18.mkv$nome=[COLOR orange][B]T01E18[COLOR yellow] -> [COLOR white]Verde de Raiva (Parte 2) A Batalha De Jason [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T01/LS-T01E19.mkv$nome=[COLOR orange][B]T01E19[COLOR yellow] -> [COLOR white]Verde de Raiva (Parte 3) O Resgate [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T01/LS-T01E20.mkv$nome=[COLOR orange][B]T01E20[COLOR yellow] -> [COLOR white]Verde de Raiva (Parte 4) Eclipsando O Megazord [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T01/LS-T01E21.mkv$nome=[COLOR orange][B]T01E21[COLOR yellow] -> [COLOR white]Verde de Raiva (Parte 5) Quebrando O Feitiso [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T01/LS-T01E22.mkv$nome=[COLOR orange][B]T01E22[COLOR yellow] -> [COLOR white]O Caso da Tartaruga [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T01/LS-T01E23.mkv$nome=[COLOR orange][B]T01E23[COLOR yellow] -> [COLOR white]A Aranha Pequenininha [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T01/LS-T01E24.mkv$nome=[COLOR orange][B]T01E24[COLOR yellow] -> [COLOR white]A Flor do Mal [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T01/LS-T01E25.mkv$nome=[COLOR orange][B]T01E25[COLOR yellow] -> [COLOR white]A Vida e um Carnaval [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T01/LS-T01E26.mkv$nome=[COLOR orange][B]T01E26[COLOR yellow] -> [COLOR white]Trabalho Em Equipe [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T01/LS-T01E27.mkv$nome=[COLOR orange][B]T01E27[COLOR yellow] -> [COLOR white]Ilha das Ilusoes (Parte 1) [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T01/LS-T01E28.mkv$nome=[COLOR orange][B]T01E28[COLOR yellow] -> [COLOR white]Ilha das Ilusoes (Parte 2) [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T01/LS-T01E29.mkv$nome=[COLOR orange][B]T01E29[COLOR yellow] -> [COLOR white]A Roda do Infortuno [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T01/LS-T01E30.mkv$nome=[COLOR orange][B]T01E30[COLOR yellow] -> [COLOR white]O Rockstar [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T01/LS-T01E31.mkv$nome=[COLOR orange][B]T01E31[COLOR yellow] -> [COLOR white]Kimberly Calamidade [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T01/LS-T01E32.mkv$nome=[COLOR orange][B]T01E32[COLOR yellow] -> [COLOR white]Nasce uma Estrela [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T01/LS-T01E33.mkv$nome=[COLOR orange][B]T01E33[COLOR yellow] -> [COLOR white]Show de Talentos [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T01/LS-T01E34.mkv$nome=[COLOR orange][B]T01E34[COLOR yellow] -> [COLOR white]A Vela Verde (Parte 1) [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T01/LS-T01E35.mkv$nome=[COLOR orange][B]T01E35[COLOR yellow] -> [COLOR white]A Vela Verde (Parte 2) [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T01/LS-T01E36.mkv$nome=[COLOR orange][B]T01E36[COLOR yellow] -> [COLOR white]Questao de Confiansa [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T01/LS-T01E37.mkv$nome=[COLOR orange][B]T01E37[COLOR yellow] -> [COLOR white]Clube de Reciclagem [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T01/LS-T01E38.mkv$nome=[COLOR orange][B]T01E38[COLOR yellow] -> [COLOR white]Pessima Imagem [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T01/LS-T01E39.mkv$nome=[COLOR orange][B]T01E39[COLOR yellow] -> [COLOR white]O Dia Fatal (Parte 1) [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T01/LS-T01E40.mkv$nome=[COLOR orange][B]T01E40[COLOR yellow] -> [COLOR white]O Dia Fatal (Parte 2) [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T01/LS-T01E41.mkv$nome=[COLOR orange][B]T01E41[COLOR yellow] -> [COLOR white]Uma Surpresa de Cedro [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T01/LS-T01E42.mkv$nome=[COLOR orange][B]T01E42[COLOR yellow] -> [COLOR white]Nem Tudo Que Cai Na Rede e Peixe [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T01/LS-T01E43.mkv$nome=[COLOR orange][B]T01E43[COLOR yellow] -> [COLOR white]Gatos e Leoes [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T01/LS-T01E44.mkv$nome=[COLOR orange][B]T01E44[COLOR yellow] -> [COLOR white]As Sementes do Mal [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T01/LS-T01E45.mkv$nome=[COLOR orange][B]T01E45[COLOR yellow] -> [COLOR white]O Caso da Pulga [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T01/LS-T01E46.mkv$nome=[COLOR orange][B]T01E46[COLOR yellow] -> [COLOR white]Reinado da Medusa [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T01/LS-T01E47.mkv$nome=[COLOR orange][B]T01E47[COLOR yellow] -> [COLOR white]Cristal dos Pesadelos [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T01/LS-T01E48.mkv$nome=[COLOR orange][B]T01E48[COLOR yellow] -> [COLOR white]Praga de Louva-Deus [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T01/LS-T01E49.mkv$nome=[COLOR orange][B]T01E49[COLOR yellow] -> [COLOR white]A Volta de Um Velho Amigo (Parte 1) [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T01/LS-T01E50.mkv$nome=[COLOR orange][B]T01E50[COLOR yellow] -> [COLOR white]A Volta de Um Velho Amigo (Parte 2) [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T01/LS-T01E51.mkv$nome=[COLOR orange][B]T01E51[COLOR yellow] -> [COLOR white]Zumbido da abelha [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T01/LS-T01E52.mkv$nome=[COLOR orange][B]T01E52[COLOR yellow] -> [COLOR white]Duas Cabesas Pensam Melhor Que Uma [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T01/LS-T01E53.mkv$nome=[COLOR orange][B]T01E53[COLOR yellow] -> [COLOR white]O Caso do Pica-pau [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T01/LS-T01E54.mkv$nome=[COLOR orange][B]T01E54[COLOR yellow] -> [COLOR white]O Dia da Casa [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T01/LS-T01E55.mkv$nome=[COLOR orange][B]T01E55[COLOR yellow] -> [COLOR white]Segunda Chance [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T01/LS-T01E56.mkv$nome=[COLOR orange][B]T01E56[COLOR yellow] -> [COLOR white]A Discordia [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T01/LS-T01E57.mkv$nome=[COLOR orange][B]T01E57[COLOR yellow] -> [COLOR white]Uma Questao de Auto Confiansa [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T01/LS-T01E58.mkv$nome=[COLOR orange][B]T01E58[COLOR yellow] -> [COLOR white]Temporada de Futebol [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T01/LS-T01E59.mkv$nome=[COLOR orange][B]T01E59[COLOR yellow] -> [COLOR white]Power Rangers Mutantes [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T01/LS-T01E60.mkv$nome=[COLOR orange][B]T01E60[COLOR yellow] -> [COLOR white]Sopa de Ostra [/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/original/rdL59hxTLM112gFyMnB7mpqXf4q.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xsx8LNkEgiNt5tqyICO4qC1hrCO.jpg</fanart>
+<info>É hora de morfar!</info>
+<genre>TOKUSATSUS</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Mighty Morphin (1994) - T02 - SD DUB[/B][/COLOR]</title>
+
+<link>NOLINK$nome=[COLOR orange][B] Temporada 02 - 00 EPs[/B][/COLOR]</link>		
+
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T02/LS-T02E01.mkv$nome=[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]O Motim (Parte 1) [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T02/LS-T02E02.mkv$nome=[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]O Motim (Parte 2) [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T02/LS-T02E03.mkv$nome=[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white]O Motim (Parte 3) [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T02/LS-T02E04.mkv$nome=[COLOR orange][B]T02E04[COLOR yellow] -> [COLOR white]Querendo ser Ranger [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T02/LS-T02E05.mkv$nome=[COLOR orange][B]T02E05[COLOR yellow] -> [COLOR white]Patrulhando a Mente [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T02/LS-T02E06.mkv$nome=[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white]A Flor do Mal [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T02/LS-T02E07.mkv$nome=[COLOR orange][B]T02E07[COLOR yellow] -> [COLOR white]O Sonho Verde [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T02/LS-T02E08.mkv$nome=[COLOR orange][B]T02E08[COLOR yellow] -> [COLOR white]Roubando os Poderes [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T02/LS-T02E09.mkv$nome=[COLOR orange][B]T02E09[COLOR yellow] -> [COLOR white]A Invasao Do Besouro [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T02/LS-T02E10.mkv$nome=[COLOR orange][B]T02E10[COLOR yellow] -> [COLOR white]Bem-vindos a Ilha Venus [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T02/LS-T02E11.mkv$nome=[COLOR orange][B]T02E11[COLOR yellow] -> [COLOR white]A Cansao Do Guitardo [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T02/LS-T02E12.mkv$nome=[COLOR orange][B]T02E12[COLOR yellow] -> [COLOR white]O Fim do Verde (Parte 1) [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T02/LS-T02E13.mkv$nome=[COLOR orange][B]T02E13[COLOR yellow] -> [COLOR white]O Fim do Verde (Parte 2) [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T02/LS-T02E14.mkv$nome=[COLOR orange][B]T02E14[COLOR yellow] -> [COLOR white]Saudades do Verde [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T02/LS-T02E15.mkv$nome=[COLOR orange][B]T02E15[COLOR yellow] -> [COLOR white]Manobras Orquestrais No Parque [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T02/LS-T02E16.mkv$nome=[COLOR orange][B]T02E16[COLOR yellow] -> [COLOR white]A Bela E A Fera [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T02/LS-T02E17.mkv$nome=[COLOR orange][B]T02E17[COLOR yellow] -> [COLOR white]Luz Branca (Parte 1) [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T02/LS-T02E18.mkv$nome=[COLOR orange][B]T02E18[COLOR yellow] -> [COLOR white]Luz Branca (Parte 2) [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T02/LS-T02E19.mkv$nome=[COLOR orange][B]T02E19[COLOR yellow] -> [COLOR white]Dois Por Um [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T02/LS-T02E20.mkv$nome=[COLOR orange][B]T02E20[COLOR yellow] -> [COLOR white]Os Opostos se Atraem [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T02/LS-T02E21.mkv$nome=[COLOR orange][B]T02E21[COLOR yellow] -> [COLOR white]Monstros e bruxas [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T02/LS-T02E22.mkv$nome=[COLOR orange][B]T02E22[COLOR yellow] -> [COLOR white]O Encontro Ninja (Parte 1) [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T02/LS-T02E23.mkv$nome=[COLOR orange][B]T02E23[COLOR yellow] -> [COLOR white]O Encontro Ninja (Parte 2) [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T02/LS-T02E24.mkv$nome=[COLOR orange][B]T02E24[COLOR yellow] -> [COLOR white]O Encontro Ninja (Parte 3) [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T02/LS-T02E25.mkv$nome=[COLOR orange][B]T02E25[COLOR yellow] -> [COLOR white]Um Monstro de Proporsoes Globais [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T02/LS-T02E26.mkv$nome=[COLOR orange][B]T02E26[COLOR yellow] -> [COLOR white]Ondas de Lord Zedd [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T02/LS-T02E27.mkv$nome=[COLOR orange][B]T02E27[COLOR yellow] -> [COLOR white]A Transferencia do Poder (Parte 1) [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T02/LS-T02E28.mkv$nome=[COLOR orange][B]T02E28[COLOR yellow] -> [COLOR white]A Transferencia do Poder (Parte 2) [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T02/LS-T02E29.mkv$nome=[COLOR orange][B]T02E29[COLOR yellow] -> [COLOR white]A Maria Cebola de Goldar [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T02/LS-T02E30.mkv$nome=[COLOR orange][B]T02E30[COLOR yellow] -> [COLOR white]O Espelho Do Lamento [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T02/LS-T02E31.mkv$nome=[COLOR orange][B]T02E31[COLOR yellow] -> [COLOR white]Quando Um Ranger Nao e Um Ranger [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T02/LS-T02E32.mkv$nome=[COLOR orange][B]T02E32[COLOR yellow] -> [COLOR white]Rocky So Quer Diversao [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T02/LS-T02E33.mkv$nome=[COLOR orange][B]T02E33[COLOR yellow] -> [COLOR white]Luz, Camera, Asao! [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T02/LS-T02E34.mkv$nome=[COLOR orange][B]T02E34[COLOR yellow] -> [COLOR white]Onde Ha Fumasa, Ha Fogo [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T02/LS-T02E35.mkv$nome=[COLOR orange][B]T02E35[COLOR yellow] -> [COLOR white]A Gincana [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T02/LS-T02E36.mkv$nome=[COLOR orange][B]T02E36[COLOR yellow] -> [COLOR white]A Grande Fuga De Bookala [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T02/LS-T02E37.mkv$nome=[COLOR orange][B]T02E37[COLOR yellow] -> [COLOR white]Amigas Para Sempre [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T02/LS-T02E38.mkv$nome=[COLOR orange][B]T02E38[COLOR yellow] -> [COLOR white]Historias De Pescador [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T02/LS-T02E39.mkv$nome=[COLOR orange][B]T02E39[COLOR yellow] -> [COLOR white]Os Rangers De Volta No Tempo (Parte 1) [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T02/LS-T02E40.mkv$nome=[COLOR orange][B]T02E40[COLOR yellow] -> [COLOR white]Os Rangers De Volta No Tempo (Parte 2) [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T02/LS-T02E41.mkv$nome=[COLOR orange][B]T02E41[COLOR yellow] -> [COLOR white]O Casamento (Parte 1) [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T02/LS-T02E42.mkv$nome=[COLOR orange][B]T02E42[COLOR yellow] -> [COLOR white]O Casamento (Parte 2) [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T02/LS-T02E43.mkv$nome=[COLOR orange][B]T02E43[COLOR yellow] -> [COLOR white]O Casamento (Parte 3) [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T02/LS-T02E44.mkv$nome=[COLOR orange][B]T02E44[COLOR yellow] -> [COLOR white]A Volta Do Ranger Verde (Parte 1) [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T02/LS-T02E45.mkv$nome=[COLOR orange][B]T02E45[COLOR yellow] -> [COLOR white]A Volta Do Ranger Verde (Parte 2) [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T02/LS-T02E46.mkv$nome=[COLOR orange][B]T02E46[COLOR yellow] -> [COLOR white]A Volta Do Ranger Verde (Parte 3) [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T02/LS-T02E47.mkv$nome=[COLOR orange][B]T02E47[COLOR yellow] -> [COLOR white]O Mais Apto Ao Trabalho [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T02/LS-T02E48.mkv$nome=[COLOR orange][B]T02E48[COLOR yellow] -> [COLOR white]O Livro De Historias (Parte 1) [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T02/LS-T02E49.mkv$nome=[COLOR orange][B]T02E49[COLOR yellow] -> [COLOR white]O Livro De Historias (Parte 2) [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T02/LS-T02E50.mkv$nome=[COLOR orange][B]T02E50[COLOR yellow] -> [COLOR white]Os Rangers Do Velho Oeste (Parte 1) [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T02/LS-T02E51.mkv$nome=[COLOR orange][B]T02E51[COLOR yellow] -> [COLOR white]Os Rangers Do Velho Oeste (Parte 2) [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T02/LS-T02E52.mkv$nome=[COLOR orange][B]T02E52[COLOR yellow] -> [COLOR white]O Ranger Azul Fica Mal [/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/original/uq6exbOtVzX2yMdoP7Ud4b8nOCX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xsx8LNkEgiNt5tqyICO4qC1hrCO.jpg</fanart>
+<info>É hora de morfar!</info>
+<genre>TOKUSATSUS</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Mighty Morphin (1995) - T03 - SD DUB[/B][/COLOR]</title>
+
+<link>NOLINK$nome=[COLOR orange][B] Temporada 03 - 00 EPs[/B][/COLOR]</link>		
+
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T03/LS-T03E01.mkv$nome=[COLOR orange][B]T03E01[COLOR yellow] -> [COLOR white]Ajudando Um Amigo (Parte 1) [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T03/LS-T03E02.mkv$nome=[COLOR orange][B]T03E02[COLOR yellow] -> [COLOR white]Ajudando Um Amigo (Parte 2) [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T03/LS-T03E03.mkv$nome=[COLOR orange][B]T03E03[COLOR yellow] -> [COLOR white]Ajudando Um Amigo (Parte 3) [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T03/LS-T03E04.mkv$nome=[COLOR orange][B]T03E04[COLOR yellow] -> [COLOR white]A Busca Ninja (Parte 1) [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T03/LS-T03E05.mkv$nome=[COLOR orange][B]T03E05[COLOR yellow] -> [COLOR white]A Busca Ninja (Parte 2) [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T03/LS-T03E06.mkv$nome=[COLOR orange][B]T03E06[COLOR yellow] -> [COLOR white]A Busca Ninja (Parte 3) [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T03/LS-T03E07.mkv$nome=[COLOR orange][B]T03E07[COLOR yellow] -> [COLOR white]A Busca Ninja (Parte 4) [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T03/LS-T03E08.mkv$nome=[COLOR orange][B]T03E08[COLOR yellow] -> [COLOR white]Uma Pincelada Do Destino [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T03/LS-T03E09.mkv$nome=[COLOR orange][B]T03E09[COLOR yellow] -> [COLOR white]Passando A Lanterna [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T03/LS-T03E10.mkv$nome=[COLOR orange][B]T03E10[COLOR yellow] -> [COLOR white]Sabio Por Um Dia [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T03/LS-T03E11.mkv$nome=[COLOR orange][B]T03E11[COLOR yellow] -> [COLOR white]Jogo de Bola [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T03/LS-T03E12.mkv$nome=[COLOR orange][B]T03E12[COLOR yellow] -> [COLOR white]O Rei Do Odio (Parte 1) [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T03/LS-T03E13.mkv$nome=[COLOR orange][B]T03E135COLOR yellow] -> [COLOR white]O Rei Do Odio (Parte 2) [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T03/LS-T03E14.mkv$nome=[COLOR orange][B]T03E14[COLOR yellow] -> [COLOR white]Enfrentando O Rouba-Rostos [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T03/LS-T03E15.mkv$nome=[COLOR orange][B]T03E15[COLOR yellow] -> [COLOR white]A Posao Do Amor [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T03/LS-T03E16.mkv$nome=[COLOR orange][B]T03E16[COLOR yellow] -> [COLOR white]Sonhando Com O Natal [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T03/LS-T03E17.mkv$nome=[COLOR orange][B]T03E17[COLOR yellow] -> [COLOR white]Uma Catastrofe Ranger (Parte 1) [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T03/LS-T03E18.mkv$nome=[COLOR orange][B]T03E18[COLOR yellow] -> [COLOR white]Uma Catastrofe Ranger (Parte 2) [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T03/LS-T03E19.mkv$nome=[COLOR orange][B]T03E19[COLOR yellow] -> [COLOR white]Mudansa Dos Zords (Parte 1) [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T03/LS-T03E20.mkv$nome=[COLOR orange][B]T03E20[COLOR yellow] -> [COLOR white]Mudansa Dos Zords (Parte 2) [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T03/LS-T03E21.mkv$nome=[COLOR orange][B]T03E21[COLOR yellow] -> [COLOR white]Mudansa Dos Zords (Parte 3) [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T03/LS-T03E22.mkv$nome=[COLOR orange][B]T03E22[COLOR yellow] -> [COLOR white]Sigam Aquele Taxi! [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T03/LS-T03E23.mkv$nome=[COLOR orange][B]T03E23[COLOR yellow] -> [COLOR white]Um Tom Diferente De Rosa (Parte 1) [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T03/LS-T03E24.mkv$nome=[COLOR orange][B]T03E24[COLOR yellow] -> [COLOR white]Um Tom Diferente De Rosa (Parte 2) [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T03/LS-T03E25.mkv$nome=[COLOR orange][B]T03E25[COLOR yellow] -> [COLOR white]Um Tom Diferente De Rosa (Parte 3) [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T03/LS-T03E26.mkv$nome=[COLOR orange][B]T03E26[COLOR yellow] -> [COLOR white]O Prato Especial De Rita [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T03/LS-T03E27.mkv$nome=[COLOR orange][B]T03E27[COLOR yellow] -> [COLOR white]Mais Um Tijolo Na Parede [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T03/LS-T03E28.mkv$nome=[COLOR orange][B]T03E28[COLOR yellow] -> [COLOR white]O Macacao [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T03/LS-T03E29.mkv$nome=[COLOR orange][B]T03E29[COLOR yellow] -> [COLOR white]Dom Ritao E A Armadura Metalica (Parte 1) [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T03/LS-T03E30.mkv$nome=[COLOR orange][B]T03E30[COLOR yellow] -> [COLOR white]Dom Ritao E A Armadura Metalica (Parte 2) [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T03/LS-T03E31.mkv$nome=[COLOR orange][B]T03E31[COLOR yellow] -> [COLOR white]Dom Ritao E A Armadura Metalica (Parte 3) [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T03/LS-T03E32.mkv$nome=[COLOR orange][B]T03E32[COLOR yellow] -> [COLOR white]O Som Da Discordia [/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/ANMS/A2-TOKUSATSU/Power.Rangers/Mighty.Morphin/T03/LS-T03E33.mkv$nome=[COLOR orange][B]T03E33[COLOR yellow] -> [COLOR white]O Reves Dos Rangers [/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/original/p9ZsjhxnA7SwoqGq5f3WiDbZGii.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xsx8LNkEgiNt5tqyICO4qC1hrCO.jpg</fanart>
+<info>É hora de morfar!</info>
+<genre>TOKUSATSUS</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR black].[/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+	
+<item>
+<title>[COLOR orange][B]QUER ASSISTIR OUTRA TEMPORADA ?[/B][/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+	
+<item>
+<title>[COLOR orange][B]O VÍDEO NÃO ABRIU  ?
+CONTATE O SUPORTE , QUE RESOLVEMOS. [/B][/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+
+
